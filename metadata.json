@@ -1,0 +1,6 @@
+{
+  "name": "BMI Check",
+  "description": "An elegant and professional BMI tracker app for monitoring and tracking Body Mass Index with history logs, weight spectrum feedback, and health insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
